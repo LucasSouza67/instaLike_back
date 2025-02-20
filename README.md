@@ -30,7 +30,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 1.  Clone este repositório:
 
     ```bash
-    git clone https://github.com/LucasSouza67/instaLike_back (https://github.com/dolthub/dolt)
+    git clone https://github.com/LucasSouza67/instaLike_back (https://github.com/LucasSouza67/instaLike_back)
     cd instaLike_back
     ```
 
@@ -68,7 +68,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 ## Licença
 
-Este projeto está licenciado sob a licença MTI - consulte o arquivo `LICENSE.md` para obter detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo `LICENSE.md` para obter detalhes.
 
 ## Autor
 
